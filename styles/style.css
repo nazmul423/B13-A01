@@ -308,7 +308,7 @@ p{
 }
 
 .footer{
-    
+    background: linear-gradient(180deg,#021b33,#031428);
     color:#fff;
     padding:30px 60px 15px;
     position:relative;
@@ -316,3 +316,4 @@ p{
     height: 348px;
     background-color: #001931;
 }
+
